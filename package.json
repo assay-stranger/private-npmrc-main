@@ -1,0 +1,10 @@
+{
+  "name": "coldrun-private-npmrc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cold-run fixture: a scope bound to a private registry, with no token anywhere",
+  "dependencies": {
+    "@coldrun-private/widget": "1.0.0",
+    "lodash": "4.17.20"
+  }
+}
